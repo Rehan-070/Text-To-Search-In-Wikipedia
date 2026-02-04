@@ -38,10 +38,10 @@ Install required libraries using:
 ## ▶️ How to Run
 
 # save the file  
-`main.py`
+`wiki.py`
 
 # run the program  
-`python main.py`
+`python wiki.py`
 
 When prompted, enter any topic:
 
